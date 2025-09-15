@@ -42,13 +42,13 @@
         <!-- Only changes link to hamburger due to this application being a single page -->
         <nav class="responsive-nav">
              <div class="logo-container">
-                <a href="#">
+                <a href="index.php">
                     <img class="logo" src="./assets/img/logo.png" alt="NewsHub">                
                 </a>
              </div>
             <menu>
                 <!-- Links added for a more flushed out page look but useless -->
-                <li><a href="#" class="hover-link">Home</a></li>
+                <li><a href="index.php" class="hover-link">Home</a></li>
                 <li><a href="#" class="hover-link">Breaking News</a></li>
                 <li><a href="#" class="hover-link">Search</a></li>
                 <li><a href="#" class="hover-link">About Us</a></li>
